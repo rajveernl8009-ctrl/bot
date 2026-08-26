@@ -29,7 +29,7 @@ intents.guilds = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 
 # Configuration - CHANGE THESE!
-VERIFICATION_CHANNEL_ID = 123456789012345678  # REPLACE WITH YOUR CHANNEL ID
+VERIFICATION_CHANNEL_ID = 1542120777464418324  # REPLACE WITH YOUR CHANNEL ID
 VERIFIED_ROLE_NAME = "Verified"
 LOG_CHANNEL_ID = None  # Optional: set to channel ID for logs
 
